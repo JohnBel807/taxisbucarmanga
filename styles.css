@@ -217,7 +217,7 @@ button {
 .logo-mark {
   display: grid;
   place-items: center;
-  width: 39px;
+  width: 54px;
   height: 36px;
   background: var(--c-blue);
   border-radius: var(--radius-sm);
